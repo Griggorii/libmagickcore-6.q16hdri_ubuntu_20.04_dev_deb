@@ -1,5 +1,5 @@
 # libmagickcore-6.q16hdri_ubuntu_20.04_dev_deb
-libmagickcore-6.q16hdri , dev , deb , 20.04 , refer to graphical render rendering , openmpi , limagequant
+libmagickcore-6.q16hdri , dev , deb , 20.04 , refer to graphical render rendering , openmpi , limagequant , DMAGICKCORE_HDRI_ENABLE=1 -DMAGICKCORE_QUANTUM_DEPTH=16
 
 Deb ubuntu 20.04 update download: https://github.com/Griggorii/libmagickcore-6.q16hdri_ubuntu_20.04_dev_deb/releases/tag/libmagickcore-6.q16hdri_ubuntu_20.04
 
