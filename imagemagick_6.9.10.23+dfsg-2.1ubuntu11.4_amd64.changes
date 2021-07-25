@@ -1,0 +1,186 @@
+Format: 1.8
+Date: Sun, 25 Jul 2021 13:32:54 +0800
+Source: imagemagick
+Binary: imagemagick imagemagick-6-common imagemagick-6-doc imagemagick-6.q16 imagemagick-6.q16hdri imagemagick-common imagemagick-doc libimage-magick-perl libimage-magick-q16-perl libimage-magick-q16hdri-perl libmagick++-6-headers libmagick++-6.q16-8 libmagick++-6.q16-dev libmagick++-6.q16hdri-8 libmagick++-6.q16hdri-dev libmagick++-dev libmagickcore-6-arch-config libmagickcore-6-headers libmagickcore-6.q16-6 libmagickcore-6.q16-6-extra libmagickcore-6.q16-dev libmagickcore-6.q16hdri-6 libmagickcore-6.q16hdri-6-extra libmagickcore-6.q16hdri-dev libmagickcore-dev libmagickwand-6-headers libmagickwand-6.q16-6 libmagickwand-6.q16-dev libmagickwand-6.q16hdri-6 libmagickwand-6.q16hdri-dev libmagickwand-dev perlmagick
+Architecture: all amd64
+Version: 8:6.9.10.23+dfsg-2.1ubuntu11.4
+Distribution: focal-security
+Urgency: medium
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: Griggorii <griggorii@gmail.com>
+Description:
+ imagemagick - image manipulation programs -- binaries
+ imagemagick-6-common - image manipulation programs -- infrastructure
+ imagemagick-6-doc - document files of ImageMagick
+ imagemagick-6.q16 - image manipulation programs -- quantum depth Q16
+ imagemagick-6.q16hdri - image manipulation programs -- quantum depth Q16HDRI
+ imagemagick-common - image manipulation programs -- infrastructure dummy package
+ imagemagick-doc - document files of ImageMagick -- dummy package
+ libimage-magick-perl - Perl interface to the ImageMagick graphics routines
+ libimage-magick-q16-perl - Perl interface to the ImageMagick graphics routines -- Q16 versio
+ libimage-magick-q16hdri-perl - Perl interface to the ImageMagick graphics routines -- Q16HDRI ve
+ libmagick++-6-headers - object-oriented C++ interface to ImageMagick - header files
+ libmagick++-6.q16-8 - C++ interface to ImageMagick -- quantum depth Q16
+ libmagick++-6.q16-dev - C++ interface to ImageMagick - development files (Q16)
+ libmagick++-6.q16hdri-8 - C++ interface to ImageMagick -- quantum depth Q16HDRI
+ libmagick++-6.q16hdri-dev - C++ interface to ImageMagick - development files (Q16HDRI)
+ libmagick++-dev - object-oriented C++ interface to ImageMagick -- dummy package
+ libmagickcore-6-arch-config - low-level image manipulation library - architecture header files
+ libmagickcore-6-headers - low-level image manipulation library - header files
+ libmagickcore-6.q16-6 - low-level image manipulation library -- quantum depth Q16
+ libmagickcore-6.q16-6-extra - low-level image manipulation library - extra codecs (Q16)
+ libmagickcore-6.q16-dev - low-level image manipulation library - development files (Q16)
+ libmagickcore-6.q16hdri-6 - low-level image manipulation library -- quantum depth Q16HDRI
+ libmagickcore-6.q16hdri-6-extra - low-level image manipulation library - extra codecs (Q16HDRI)
+ libmagickcore-6.q16hdri-dev - low-level image manipulation library - development files (Q16HDRI
+ libmagickcore-dev - low-level image manipulation library -- dummy package
+ libmagickwand-6-headers - image manipulation library - headers files
+ libmagickwand-6.q16-6 - image manipulation library -- quantum depth Q16
+ libmagickwand-6.q16-dev - image manipulation library - development files (Q16)
+ libmagickwand-6.q16hdri-6 - image manipulation library -- quantum depth Q16HDRI
+ libmagickwand-6.q16hdri-dev - image manipulation library - development files (Q16HDRI)
+ libmagickwand-dev - image manipulation library -- dummy package
+ perlmagick - Perl interface to ImageMagick -- dummy package
+Changes:
+ imagemagick (8:6.9.10.23+dfsg-2.1ubuntu11.4) focal-security; urgency=medium
+ .
+   * TEST REBUILD in 21.04 install 20.04 mainframe to two rebuild in 20.04: Griggorii
+Checksums-Sha1:
+ b7a885441be37b1e4f16138c55326a2cf2581630 111756 imagemagick-6-common_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 86922bb795a114aac584c4bd3da0e8f5a3909407 7627864 imagemagick-6-doc_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 852bbf7535ca913bb9070c537ae36523a455e743 89648 imagemagick-6.q16-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ b8b735008b1d216762d16fc9ac8571faf02e5521 491044 imagemagick-6.q16_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ c61ce07c2ed49a691a3a755049409a51bf501781 91088 imagemagick-6.q16hdri-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ e14cea3a7a29875d2aaaa8f15bf6b3ad0a1b2ae6 491100 imagemagick-6.q16hdri_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 04eede9564b6d523f5b02e1cb85e261a65b9cdeb 1556 imagemagick-common_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ a564fadc6d4bd328ae1ca18f46b538b0f17e51df 1664 imagemagick-doc_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ ff12164c61acc1840d90a5d9c30637f87f2230ca 33153 imagemagick_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.buildinfo
+ 5590c50287d6a48b2ed9c169c73b93c5edc2e455 67472 imagemagick_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ f422d2e30e893f069e28b5ef74fc01b936dfafb5 53308 libimage-magick-perl_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 4cea267e4c91e09c357d9267abbe209bd4d064fc 220796 libimage-magick-q16-perl-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ cfb61388acaaff6dead47604541f81bae87d4cd9 152012 libimage-magick-q16-perl_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ a79791a98c6baba9110b42f47e6dac2a8ccd4114 220676 libimage-magick-q16hdri-perl-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 5e43973d7d917b7e42ec613f93159bbaec7fb63f 150980 libimage-magick-q16hdri-perl_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ c61fd4a147fdf60a416d7d5ceaff138c9cbf6939 47536 libmagick++-6-headers_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 5ea9b4e5a56252bb30fe3952759115003749a345 1324272 libmagick++-6.q16-8-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ bec28b21403b0bb7e5926a51894d8452034ca089 186248 libmagick++-6.q16-8_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 383ae964187ccde7125d2522f024295344b9623f 180440 libmagick++-6.q16-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 46506ac055d6a7c9ab7b1a6c22fcd4b66d36e03d 1326124 libmagick++-6.q16hdri-8-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 48bfabd4fa0366c655d8a83bdb92371614811441 186340 libmagick++-6.q16hdri-8_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 48cb0baf7a98f949b91e26dabf240375381c064e 180064 libmagick++-6.q16hdri-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 7d1dce7220fd3ffb21431e29dda518aa890ea46f 1408 libmagick++-dev_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 15b571c8f3f99d17149ff48cfb71da2cf5c94d42 74976 libmagickcore-6-arch-config_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 01ec567e0454544c679c96b6a1cfc697be25ed18 49276 libmagickcore-6-headers_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 6fd59453539ccd0c6de22a943ded9ae473a05e8b 5367920 libmagickcore-6.q16-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ b5295a7d6e9e9ce7717c75c98c94703a54d28d28 194000 libmagickcore-6.q16-6-extra-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 7b4b6f39675dfd5729a3f5f650945559c4a94c48 117972 libmagickcore-6.q16-6-extra_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 0aae25c11fe6710bc318fce6c18297f7125fdc62 1702996 libmagickcore-6.q16-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 27ca72bc6989d6e182722f8a77f7b88afe77bc2c 1030640 libmagickcore-6.q16-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ a9012178e5d07859460670c33e836bcccc1ab66b 5418504 libmagickcore-6.q16hdri-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ ce2887544dd9e09902c5c54886a58f6f924478fc 193636 libmagickcore-6.q16hdri-6-extra-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ e33ee7bf94bd593fdd2c1675b74957de8d87d3fd 117876 libmagickcore-6.q16hdri-6-extra_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 0f8eda36afbf137005d269b417d1a1a18b8f25fb 1720640 libmagickcore-6.q16hdri-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 06e21f86f1179d2120acf7654072e545c831f9ba 1035416 libmagickcore-6.q16hdri-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ ec5997c52b2d5e028492b63900b5ef2f6df2b665 1384 libmagickcore-dev_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ ad2fffb6c62df13765f5b2f4f60e405e39ee20e2 10504 libmagickwand-6-headers_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ d2d880f2a680a2a439141f92ce8a5fef7110cfc8 790240 libmagickwand-6.q16-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 5cc9374f43d30ba3d22ccf6a0c72c2f5e5121144 356272 libmagickwand-6.q16-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 7e6e05a3ef21e901d9cc25dcbba0845c8ec77da4 358336 libmagickwand-6.q16-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ b32d438a6f3fe504deecd0f1e28d5a0df7f66328 789824 libmagickwand-6.q16hdri-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ d1cd81166a9ce2fa86f4383bec5a7fc2cad28b58 357652 libmagickwand-6.q16hdri-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ fd142a9f0d8b2663744966e4f98ff4b49459a4bd 358116 libmagickwand-6.q16hdri-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 16605531c20e67c85fbd8d9687bd51ddb186c883 1372 libmagickwand-dev_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ b1e2a1f970be0a7ed4bc909a9102f88afcbc7ebe 1408 perlmagick_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+Checksums-Sha256:
+ ef7e3ca0bf10a38fa6769169b4cab27d65dc68eef63068d4907ab1070dfba515 111756 imagemagick-6-common_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ f8d7005c1f28ef83ead1cd4372776d4da76a640b5bdb5244b2cb922c5c7b02ed 7627864 imagemagick-6-doc_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 1957f8af6e0ec656721921ac83676f228d1f3364416f7f403e4d0c91d001d095 89648 imagemagick-6.q16-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 82db6af663bb00a81a5094ac4953bd9ffd13f5e4de4110a1db50deb25779d774 491044 imagemagick-6.q16_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 9286347e8be2d30e6b07800d8e87438db71ba7aef86ac90ce00c523e534de3a7 91088 imagemagick-6.q16hdri-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 56661ab4a5b015f0dcec1a294ccfbd5a328f6801a1b8165edbd5ae9e48f072ee 491100 imagemagick-6.q16hdri_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ e8a914fad32ac01b28e7d67beec9a4c835a215b94ef2c5cbbe4ea135ca7d6517 1556 imagemagick-common_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 0ceaaf4a42fd3382c3012aa6bb7b3e971c18e9c603c59786a4e177a9a8b196e0 1664 imagemagick-doc_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ a8ddd809ed7b77352f16baf3815f5b1b9bbddc7f156d0b5e8e20d28342c20b58 33153 imagemagick_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.buildinfo
+ 0685a22a4a0ce8642f2c8aa7689693f0ddb2c8d2b5e682ce66aa1f206e727aea 67472 imagemagick_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 5eb1fc16253fbfdc2c60f8b575df9912c8c27a4a3ae8e13084237d27a02eaa87 53308 libimage-magick-perl_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 19b3b57856883490808394a9201905ed5a10598d103dd056203b4bde5ec20e23 220796 libimage-magick-q16-perl-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 77572ffc98ad06eb5dadb6875dc068d9f89b5177bf2f4ed0b9211bb12b61d39b 152012 libimage-magick-q16-perl_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 49e5f29eee42d09084d1c83e240fff5f8867b31e1ef3d9e045d01acb0a97d497 220676 libimage-magick-q16hdri-perl-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ d31bbc5a5b51d8915f5dbe4d21b11e2525c0df088c425eac30eda183a191419e 150980 libimage-magick-q16hdri-perl_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 190e8bd7352a29fdc721b8c013725aab94617ed4b0867f3ba0bde576d6522f48 47536 libmagick++-6-headers_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ fff2b1771ae4a70ad0bd4051578506b8a236fa5a419171d276abfd561a5376bf 1324272 libmagick++-6.q16-8-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 341191834b72ee16ce8edd1fe08865ddb083ccd80342055ef70906f678892d44 186248 libmagick++-6.q16-8_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ aa5edab258d14e115632d3027137d07fe08f7b1a7c48d0eae5499602c1bd5735 180440 libmagick++-6.q16-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ d4830a89bf2db21732175399dcfc0511e5975737ecf1a880633d66c37f755501 1326124 libmagick++-6.q16hdri-8-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 2434c78bbf3bfac93c823ba7b87cff2e1284c7c8c736448f43df5522f764e676 186340 libmagick++-6.q16hdri-8_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ f29a349ab794001ecf655f18346b39bfc66281a2b4e85e8e3a00bf8d69dfb0b9 180064 libmagick++-6.q16hdri-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ cf773743f122aa198819615018706c7dbebba4c613559234d00027aacc6db6c8 1408 libmagick++-dev_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 3bb9c29a490d24c4b0f4f992d7fef5231121d9689e5cdcfcf049ddace3dd2a6b 74976 libmagickcore-6-arch-config_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ d350bdc86dae3f5c1ae36fefd03e715ada432d7fd4220aeb52130afa9ff586fe 49276 libmagickcore-6-headers_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 7c896e2d432288dbbed4c5411a85a614c4540953309174a5b12eab1566f89b2a 5367920 libmagickcore-6.q16-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 4cd6a64b79d3612b3999dcc6281758d4b9b663c4c8ffdf42d4a3442b0d78f13e 194000 libmagickcore-6.q16-6-extra-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 2d8ca6b956b63b5884b95f4a775d392937b6dbb9ac348c47e1e9a9a59413b43b 117972 libmagickcore-6.q16-6-extra_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 8ec83b13f7042496773df3de515b6da077a8a4b0efae4b7163132aa7f3718965 1702996 libmagickcore-6.q16-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 983710b3a611421d56f3985bdabe059a08120b847f9c199235cfad73cb7684e4 1030640 libmagickcore-6.q16-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ cf9cffd48fad9cbf29f68791f66aea8327de44551285b318f604f70058d4b2a4 5418504 libmagickcore-6.q16hdri-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 897e576ef48d30b83b2b30a61eb019af0a55a86096e83ad24ff0fce53ce7509e 193636 libmagickcore-6.q16hdri-6-extra-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 4074c6bd942dfd01cd37f492aed34e982b3f4df182c6ed789bfd199d8776f50d 117876 libmagickcore-6.q16hdri-6-extra_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ bde7fb933c43a946f468962ec6a15f209d04ec9b9589bd101db46e1b0f46dcfe 1720640 libmagickcore-6.q16hdri-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ fee065b8629e300c4f9171e3ba673e5bbaeb6105d08e49fe78a8a663a5f64367 1035416 libmagickcore-6.q16hdri-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 0e9b68aab62b68447b018e1ac8154070b67b7630f9adce0ee99b9f24a4efa1bf 1384 libmagickcore-dev_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ fa8a72404cd253c4912e893049f3107ade4f6fba45e55618962a3b86a608b30a 10504 libmagickwand-6-headers_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ e5ae8f7b8834787b34f09af1369bd3994e23bffd0d6e9828a0d868323480f56c 790240 libmagickwand-6.q16-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 3d470a65607132a2274bf8b4da47575eaa321ad74dcefc0319110eee7b47a17e 356272 libmagickwand-6.q16-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ a6c341c34c47fc0f4430d522d6a7d6baf6abdb669d4f75d72863fb4c570ea94f 358336 libmagickwand-6.q16-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 8df1faec30cf8d8ebd8120bc1573d3368d8054f98330cfbeb18e931999543069 789824 libmagickwand-6.q16hdri-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 6ff0b15705a2610472ff096fe918e6ab4f5d965ca8328431755dc2ad7df3d5aa 357652 libmagickwand-6.q16hdri-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ b3f96184a875302af3c48af72be4ec9d8f55e5699b05d021078374c64d6c8cd5 358116 libmagickwand-6.q16hdri-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 5697a8d440c2c15a8c6fdd03e750aba26e1b3533b27f2b5f68775eb61c6603dd 1372 libmagickwand-dev_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ e387f625b06dc70a810f94ed5d3e608207cef10253fab0ab9863a708e53807fd 1408 perlmagick_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+Files:
+ cc827874fc389604d4c10439a0af085e 111756 graphics optional imagemagick-6-common_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 6625824208f468397adf9bf207a0c95f 7627864 doc optional imagemagick-6-doc_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 956a1894ac324da9b72a9ab1e7c1989d 89648 debug optional imagemagick-6.q16-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 8cd34c2af9eb4685e90e0ca522c0d1aa 491044 graphics optional imagemagick-6.q16_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 1ba1f005c483f133f4ba1a556c0b8386 91088 debug optional imagemagick-6.q16hdri-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ fb41c8bcde540994b1e0ebbbd591a51a 491100 graphics optional imagemagick-6.q16hdri_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ c91f2eaeedf2f970fe25aa321904b463 1556 oldlibs optional imagemagick-common_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 2b45326be98d5ef2567f8a9c8711987b 1664 oldlibs optional imagemagick-doc_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ c5c0cf06a4762075ec409c959cc9ebb3 33153 graphics optional imagemagick_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.buildinfo
+ b0bcbbae1208dd27738e6967e74389c8 67472 oldlibs optional imagemagick_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 148b5febdb5439186262225253427b1f 53308 perl optional libimage-magick-perl_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ c372d5475bbc24699241e9a10ddbaf56 220796 debug optional libimage-magick-q16-perl-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 0fcf1cdbba58f500b84689ede13d2611 152012 perl optional libimage-magick-q16-perl_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 8ae305ed3844c9e726ea42838b199286 220676 debug optional libimage-magick-q16hdri-perl-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ f7b214e824aff20b8710effa192860f1 150980 perl optional libimage-magick-q16hdri-perl_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ cf67ab41a5c6954de4de5be8d5943fdd 47536 libdevel optional libmagick++-6-headers_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ b3bce1f66d04a55e153ea2ee38b0d276 1324272 debug optional libmagick++-6.q16-8-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ aa425e30d618e59dd2861a6fb17ac29e 186248 libs optional libmagick++-6.q16-8_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ f3ffad21c71397983f8c02b934b232c2 180440 libdevel optional libmagick++-6.q16-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ d88d709887731ed8997082a2ed0b1483 1326124 debug optional libmagick++-6.q16hdri-8-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ e786935c2dc3af4a108602d150ccf253 186340 libs optional libmagick++-6.q16hdri-8_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 008d4b0942b503509137fb059d1c2027 180064 libdevel optional libmagick++-6.q16hdri-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 4bf52a48556395db734fc6b6fcd30d51 1408 oldlibs optional libmagick++-dev_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ a2f62175edd4b63bf5abce48ae2f3505 74976 libdevel optional libmagickcore-6-arch-config_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 0b9428848e990c08f8e52599c2aa7230 49276 libdevel optional libmagickcore-6-headers_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 74d9f8bc944169834024b3807111960d 5367920 debug optional libmagickcore-6.q16-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 30d191996fd68af2a44bc19def67d462 194000 debug optional libmagickcore-6.q16-6-extra-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 8072b3fce4fcdae06326d798b294c921 117972 libs optional libmagickcore-6.q16-6-extra_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 2f6d6151c8698ee7181112712b259eb4 1702996 libs optional libmagickcore-6.q16-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 0f79dd374a5f2d59d18bc69aacba57bb 1030640 libdevel optional libmagickcore-6.q16-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 3c76110197877c26979181102b84f0a5 5418504 debug optional libmagickcore-6.q16hdri-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ c985a5d4ffe8027929989c3c8b8031da 193636 debug optional libmagickcore-6.q16hdri-6-extra-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ a5a262af52389d84629f4eb9c7034630 117876 libs optional libmagickcore-6.q16hdri-6-extra_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 93fb616db5b13b7e75d556a7db2c67cf 1720640 libs optional libmagickcore-6.q16hdri-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 536744f2d6b85d0f1a4359aba1fce39b 1035416 libdevel optional libmagickcore-6.q16hdri-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 83b27004d791e614e780bc978debebea 1384 oldlibs optional libmagickcore-dev_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ 2673ab2f3412fc22016f60acfdd8adce 10504 libdevel optional libmagickwand-6-headers_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ e2a43e5b1f39fbbc886bc5d85953597e 790240 debug optional libmagickwand-6.q16-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ cbfa2a0bae5f9bff6bc1c731eae96e3b 356272 libs optional libmagickwand-6.q16-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ b023413deea701ecd9184261b569036b 358336 libdevel optional libmagickwand-6.q16-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ 2919e90947962a47a36cc1f25e4b22fc 789824 debug optional libmagickwand-6.q16hdri-6-dbgsym_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.ddeb
+ 3389e9af65b9728759fddada729d3d19 357652 libs optional libmagickwand-6.q16hdri-6_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ f7d8a3c8b0e54a257f447531db7e0706 358116 libdevel optional libmagickwand-6.q16hdri-dev_6.9.10.23+dfsg-2.1ubuntu11.4_amd64.deb
+ be932549a4b1e0b76445e7a5d7013ac8 1372 oldlibs optional libmagickwand-dev_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+ d7338df6b11e0a94e9ed277a1d60ced3 1408 oldlibs optional perlmagick_6.9.10.23+dfsg-2.1ubuntu11.4_all.deb
+Original-Maintainer: ImageMagick Packaging Team <pkg-gmagick-im-team@lists.alioth.debian.org>
